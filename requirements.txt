@@ -1,0 +1,44 @@
+# AI Framework & Tools
+openai==3.19.2
+tavily-python==0.8.4
+langchain-protocol==0.0.19
+
+# Web Framework & Server
+starlette==1.7.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+
+# Database & ORM
+SQLAlchemy==2.1.1
+psycopg==3.3.6
+psycopg-binary==3.3.6
+psycopg-pool==3.3.3
+
+# Data Handling & Utilities
+pandas==3.0.6
+pydantic-settings==2.15.0
+python-dotenv==1.2.3
+requests-toolbelt==1.0.0
+aiohttp==3.14.3
+
+# Visuals & UI
+pydeck==0.9.3
+pillow==12.3.0
+
+# System & Miscellaneous
+watchdog==6.0.0
+PyYAML==6.0.3
+toml==0.10.2
+
+streamlit
+langgraph 
+langchain 
+langchain-openai 
+langchain-groq 
+langchain-community 
+langchain-tavily 
+psycopg[binary] 
+psycopg_pool 
+python-dotenv 
+tavily-python 
+langgraph.checkpoint.postgres
